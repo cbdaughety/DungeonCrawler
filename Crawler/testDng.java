@@ -1,3 +1,4 @@
+package Crawler;
 /**
  * Class that builds and runs the dungeon
  */

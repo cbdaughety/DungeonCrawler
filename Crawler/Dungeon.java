@@ -1,4 +1,5 @@
-* Main dungeon class
+package Crawler;
+/* Main dungeon class
  */
 import java.util.*;
 import java.net.*;
@@ -21,7 +22,6 @@ public class Dungeon
 		
 		/**
 		 * calling for the hero to be built
-		
 		*/
 		Being hero = new Being(10,5,rand.nextInt(20));
                 

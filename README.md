@@ -20,7 +20,7 @@ Step two:
 Go to line 11 in the udpClient class and change the end of InetAddress statement where it says "localhost" to whatever your IP is and make sure it is still in quotation marks("xxx.xxx.x.x" etc.).
 
 Step two(part two):
-If you can not find your IP open your command prompt and type ipconfig after this your IP is the numbers next to the IPv4 Address.
+If you can not find your IP, within the file where it has this Readme Shift right click and select open command window/powershell here. open your command prompt and type ipconfig after this your IP is the numbers next to the IPv4 Address.
 
 Step three:
 Open and run the testDng.java class on whichever computer is going to be your server.
@@ -32,7 +32,10 @@ Step five:
 The udpClient class will be your control panel, it will start by asking your name, after that just follow the on-screen instructions to play.
 
 Step six:
-Have fun with it! and thanks for playing!
+Have fun with it and thanks for playing!
+
+#Testing:
+Open your command/powershell window like in step two(part two) and type java dngTester. this will test all the possible outcomes.
 
 #Authors:
 David Summerfield
